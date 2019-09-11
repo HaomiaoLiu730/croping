@@ -1,2 +1,2 @@
 # croping
-crop faces from pictures
+Detects and crop faces from pictures
